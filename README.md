@@ -1,2 +1,3 @@
-# practice-kotlin-on-vscode
-Practice Kotlin Language on Visual Studio Code
+# Practice Kotlin Language on Visual Studio Code
+
+- Kotlin を Visual Studio Code で学ぶ
